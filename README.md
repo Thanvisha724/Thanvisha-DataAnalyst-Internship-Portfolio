@@ -179,7 +179,7 @@ Add screenshots of:
 | Task 2 | https://github.com/Thanvisha724/APEXPLANET_TASK2 |
 | Task 3 | https://github.com/Thanvisha724/APEXPLANET_TASK3 |
 | Task 4 | https://github.com/Thanvisha724/APEXPLANET_TASK4 |
-| Master Portfolio | Add Link |
+| Master Portfolio | https://github.com/Thanvisha724/Thanvisha-DataAnalyst-Internship-Portfolio |
 
 ---
 
