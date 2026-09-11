@@ -54,8 +54,6 @@ Understand, clean, and prepare raw data for analysis.
 - Data Dictionary
 - Data Cleaning Documentation
 
-🔗 Repository Link: [Add Link]
-
 ---
 
 ## 🔹 Task 2: Exploratory Data Analysis & Business Intelligence
@@ -75,8 +73,6 @@ Identify patterns, trends, and business insights through EDA.
 - SQL Queries
 - Insight Documentation
 
-🔗 Repository Link: [Add Link]
-
 ---
 
 ## 🔹 Task 3: Deep-Dive Analysis & Interactive Dashboarding
@@ -95,8 +91,6 @@ Perform detailed analysis and build an interactive dashboard.
 - KPI Report
 - Business Recommendations
 
-🔗 Repository Link: [Add Link]
-
 ---
 
 ## 🔹 Task 4: Data Storytelling & Statistical Validation
@@ -114,8 +108,6 @@ Transform analysis into actionable business insights.
 - Presentation Deck
 - Statistical Analysis Report
 - Business Recommendations
-
-🔗 Repository Link: [Add Link]
 
 ---
 
@@ -179,20 +171,14 @@ Add screenshots of:
 
 ---
 
-# 📄 Final Presentation
-
-📥 [Add Presentation Link]
-
----
-
 # 🌐 GitHub Repositories
 
 | Project | Repository |
 |----------|------------|
-| Task 1 | Add Link |
-| Task 2 | Add Link |
-| Task 3 | Add Link |
-| Task 4 | Add Link |
+| Task 1 |https://github.com/Thanvisha724/APEXPLANET_TASK1  |
+| Task 2 | https://github.com/Thanvisha724/APEXPLANET_TASK2 |
+| Task 3 | https://github.com/Thanvisha724/APEXPLANET_TASK3 |
+| Task 4 | https://github.com/Thanvisha724/APEXPLANET_TASK4 |
 | Master Portfolio | Add Link |
 
 ---
@@ -200,13 +186,10 @@ Add screenshots of:
 # 🤝 Connect With Me
 
 ### LinkedIn
-[Add LinkedIn Profile Link]
-
-### GitHub
-[Add GitHub Profile Link]
+[www.linkedin.com/in/grandhi-thanvisha-5b4093324]
 
 ### Email
-your-email@example.com
+thanvisha2007@gmail.com
 
 ---
 
